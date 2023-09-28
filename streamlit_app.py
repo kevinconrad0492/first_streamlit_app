@@ -12,3 +12,5 @@ streamlit.text('🐔 Hard-Boiled Free-Range Eggs')
 streamlit.text('🥑 Advocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
+streamlit.dataframe(my_fruit_list)
